@@ -12,7 +12,7 @@ The need for semi-supervised learning stems from the cost of annotating datasets
 
 ## Experiment
 
-To cater to your curiosity, you can catch the implementation [here]((https://github.com/reshalfahsi/semi-supervised-pseudo-labeling/blob/master/Semi_Supervised_Learning_with_Pseudo_Labeling.ipynb).
+To cater to your curiosity, you can catch the implementation [here](https://github.com/reshalfahsi/semi-supervised-pseudo-labeling/blob/master/Semi_Supervised_Learning_with_Pseudo_Labeling.ipynb).
 
 
 
