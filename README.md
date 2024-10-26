@@ -24,7 +24,7 @@ Refer to the table below to discern the quantitative results.
 
 Test Metric | Score |
 ----------- | ----- |
-Accuracy | 62.77 %
+Accuracy | 62.77%
 Loss | 1.274
 
 
